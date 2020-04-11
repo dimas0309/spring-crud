@@ -1,0 +1,86 @@
+.header {
+  background-color: #549DFF;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin: auto;
+  padding: 30px;
+
+}
+
+.menuBar {
+  background-color: #9EC0ED;
+  margin: auto;
+  padding: 20px;
+
+}
+
+.content {
+  background-color: #F9FCFF;
+  margin: auto;
+  padding: 100px;
+}
+
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	
+}
+
+.menuBar a {
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+.search {
+	font-family: 'Open Sans', sans-serif;
+    border-color: #9EC0ED;
+}
+
+.userList {
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+.userList table{
+	border-collapse: collapse;
+	border-bottom: 2px #549DFF;
+	font-family: 'Open Sans', sans-serif; 
+	width: 100%;
+	
+}
+
+.userList th{
+	border-bottom: 1px #9EC0ED;
+	background: none repeat scroll 0 0 #549DFF;
+	padding: 10px;
+	color: #FFFFFF;
+	
+}
+
+.userList tr {
+	border-top: 1px #549DFF;
+	text-align: center;	
+	
+}
+
+.userList tr:nth-child(even) {background: #9EC0ED}
+.userListe tr:nth-child(odd) {background: #549DFF}	
+
+.userForm {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.userForm input {
+	font-family: 'Open Sans', sans-serif;
+    border-color: #9EC0ED;
+	
+}
+
+	
